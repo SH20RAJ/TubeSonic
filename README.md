@@ -49,7 +49,7 @@ sudo apt install yt-dlp
 
 ### 2. **Download TubeSonic**
 
-> 🔗 [Download Latest Release](https://github.com/yourusername/tubesonic/releases)
+> 🔗 [Download Latest Release](https://github.com/sh20raj/tubesonic/releases)
 
 Choose the version for your OS:
 
@@ -64,7 +64,7 @@ Choose the version for your OS:
 Want to contribute or customize?
 
 ```bash
-git clone https://github.com/yourusername/tubesonic.git
+git clone https://github.com/sh20raj/tubesonic.git
 cd tubesonic
 npm install
 npm run tauri dev
