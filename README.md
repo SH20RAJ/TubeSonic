@@ -11,16 +11,23 @@
 
 - 🎬 **Video Downloads** – Download videos in the best quality available
 - 🎧 **Audio-Only Mode** – Extract just the audio as MP3
+- 🎛️ **Quality Selection** – Choose from various quality options (360p to 1080p)
+- 📋 **Download History** – Keep track of your downloads
 - 💾 **Fast & Lightweight** – Powered by Tauri, bundled size <10MB
 - 🔒 **Secure** – Native Rust backend with no bloat
-- 🌙 **Minimal UI** – Simple, focused interface
+- 🌙 **Beautiful UI** – Modern, clean interface with glass morphism design
 
 ---
 
 ## 📸 Preview
 
-> _Screenshots coming soon..._  
-> _(Include GIFs or images here if possible)_
+TubeSonic features a beautiful, modern UI with:
+
+- 🎨 **Glass Morphism Design** - Elegant transparent cards with subtle blur effects
+- 🌈 **Smooth Gradients** - Subtle background gradients for visual appeal
+- 🔄 **Intuitive Controls** - Simple format and quality selection
+- 📱 **Responsive Layout** - Works well on various screen sizes
+- 🌓 **Dark Mode** - Easy on the eyes with a dark theme
 
 ---
 
